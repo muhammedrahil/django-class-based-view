@@ -1,0 +1,2 @@
+    <!-- <a href="{% url 'core:PreLoadTask' pk=data.id %}">{{data.name}}</a> -->
+    <!-- <a href="{% url 'core:redirectview' %}">redirect path using redirectview template to another url </a> -->
